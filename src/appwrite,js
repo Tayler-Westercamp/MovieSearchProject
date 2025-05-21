@@ -7,7 +7,7 @@ const COLLECTION_ID = "682e41d9001b6574ff3a";
 
 const client = new Client()
 .setEndpoint('https://cloud.appwrite.io/v1')
-.setProject(PROJECT_ID)
+.setProject("682e40f10018e6e5e4a3")
 
 const database = new Databases(client);
 
